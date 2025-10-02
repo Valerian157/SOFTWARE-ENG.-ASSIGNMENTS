@@ -1,3 +1,9 @@
+/*
+NAME:VALERIAN SARANGE OGARI
+REG:PA106/G/28839/25
+DESCRIPTION:PROGRAM TO DISPLAY DATA BUNDLES TO THE CLIENT AND PROMPT THEM TO PURCHASE
+*/
+
 #include <stdio.h>
 #include <stdlib.h>
 
@@ -47,3 +53,4 @@ int main()
 
     return 0;
 }
+
