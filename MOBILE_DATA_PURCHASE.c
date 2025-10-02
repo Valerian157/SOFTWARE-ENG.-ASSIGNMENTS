@@ -10,14 +10,7 @@ DESCRIPTION:PROGRAM TO DISPLAY DATA BUNDLES TO THE CLIENT AND PROMPT THEM TO PUR
 int main()
 {
 
-  /* char packages[4][2] = {
-
-    {100MB,50},
-    {500MB,20},
-    {1GB,350},
-    {2GB,600}
-
-   }*/
+ 
 
    int choice;
    printf("The following are the packages offerred:\n");
@@ -53,4 +46,5 @@ int main()
 
     return 0;
 }
+
 
