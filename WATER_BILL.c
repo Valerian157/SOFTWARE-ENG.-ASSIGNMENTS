@@ -1,3 +1,9 @@
+/*
+NAME:VALERIAN SARANGE OGARI
+REG:PA106/G/28839/25
+DESCRIPTION:PROGRAM TO CALCULATE AND DISPLAY THE WATER BILL
+*/
+
 #include <stdio.h>
 #include <stdlib.h>
 
@@ -30,3 +36,4 @@ int main()
 
     return 0;
 }
+
